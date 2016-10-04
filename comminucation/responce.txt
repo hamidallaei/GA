@@ -1,0 +1,221 @@
+Dear Editor,
+
+Please find the the modified version of our manuscript titled as "Gaussian theory for spatially distributed self-propelled particles" by H. Seyed-Allaei, L. Schimansky-Geier, and MR Ejtehadi.
+
+We thank the reviewers for their careful reading of the manuscript and we are grateful for having their valuable comments and suggestions that enrich our manuscript. All the comments are addressed below and we have tried our best to consider them on the new revision.
+
+Below you can find detailed responses to the referees main comments.
+
+Sincerely yours Hamid Seyed-Allaei
+
+___________________________________________________________________________________________________________
+
+
+------------------------------------------------------------------
+Response to the first referee's comments:
+------------------------------------------------------------------
+
+We appreciate the first referee complete report, and his valuable detailed comments on the manuscript. We tried to apply most of the comments to the manuscript that improve the quality of the manuscript without doubt. Here are the referee comments, and our response:
+
+Referee: 1) "Tonner" -- misspelt.
+
+Authors:  "Tonner" changed to "Toner" in the revision.
+
+Referee: 2) 6 lines below Eq.2: Dr instead of D?
+
+Authors: Yes, Dr is replaced in the revision.
+
+Referee: 3) is gamma>0?
+
+Authors: Yes, it is always positive in the manuscript. "$\gamma$" is changed to "$\gamma>0$" on P.2 of the revision.
+
+Referee: 4) 5 lines before III: What do the authors mean by "Without loss of generality"? After all, this looks like a very specific choice...
+
+Authors: The objection is right. Such a function is an specific choice. We removed the phrase "Without loss of generality".
+
+Referee: 5) P.2, right column: "Simulations start with..." -- more information on the initial conditions and reasons for this choice should be given.
+
+Authors: At the same place, we wrote the following paragraph to give more information on the initial conditions and reasons for our choice.
+"Initially the particles are uniformly placed in the space. In the heating process particles are initially aligned in ${\rm x}$ direction, since we are interested in the stability of homogeneous polar state. In the cooling process we orient particles isotropically, because at high noise, the system quickly gets non-polar and homogeneous. At each noise intensity, we wait $2^{14}$ time steps for the relaxation of the polarization, and then $2^{19}$ time steps for sampling. The final configuration in any noise level is used as initial state for the next noise value."
+
+Referee: 6) Fig.1: how do the results depend on the heating/cooling rate?
+
+Authors: That is a good point. We did not study the effect of cooling and heating rates. However, we decreased the noise steps near the transition point, and you can see that the points are still on the observed trend in the polarization of the system (Fig.1). Thus we believe that we wait enough for the system to be relaxed. However, the behavior of a system without relaxation during cooling and heating process, could be interesting for future studies.
+
+Referee: 7) P.3 bottom left: 0.2<=Dr ?
+
+Authors: Once again we thank you for detailed reading and sorry for many typos. There was similar error on P.8 top left. Both have been fixed in the new revision.
+
+Referee: 8) Has the phenomenology of 1 band during cooling, more bands during heating been reported before? If so, where? Does it depend on the cooling/heating rate?
+
+Authors: Up to our knowledge, we have never seen this point being mentioned. But, in the supplementary movies of the reference [73] that can be find in "http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.068101", we see that there are systems with single and many bands. When the system is quenched from liquid state (SI. 5), multiple bands are formed. When the system is quenched from a gas state (SI. 2 and 3), it forms the single band. The cooling/heating rate, however, is neither considered in reference [73] nor in ours. Whether this depends on the cooling/heating rate is an interesting question, but answering it, requires lots of efforts that are not directly related to the introduction of the GA. So we believe that this study can be done separately in another work.
+
+Referee: 9) Eq.4: 2nd line should be aligned to the right below the =.
+
+Authors: That is correct. In the revision, 2nd line of the equation [now Eq.(6)] is aligned below the =.
+
+Referee: 10) Eq.5: F should be written with only 2 arguments for consistency.
+
+Authors: Yes, that is a very elegant point. It is fixed in Eq.(7) of the revision.
+
+
+Referee: 11) Eqs.11,12: for consistency, I think it should be rho*p, rho*Q on the left-hand sides.
+
+Authors: It is true. It is fixed.
+
+Referee: 12) Eq.14: a statement should be added concerning discontinuities in the derivatives of the wrapped Gaussian at theta=+/-pi.
+
+Authors: Thank the referee for this comment. We add the following statement to the text, below the definition of the wrapped Gaussian. "The distribution is continuous and periodic in $[-\pi,\pi]$, but its derivatives at $\pm \pi$ is discontinuous"
+
+Referee: 13) 2nd line below Eq.16: f instead of P on the left? rho*exp on the right?
+
+Authors: The text here had some ambiguity. To make everything clear, we write f instead of P on the left, and on the right we use W instead of p.
+
+Referee: 14) P.4, right, last line: x and y, rather Re- and Im-axes in this context?
+
+Authors: We agree with this comment. We change "x, and y axis" to "real and imaginary axes" in the revision.
+
+Referee: 15) Eqs.18 and further: W is undefined!
+
+Authors: W was defined in the beginning of the section IV. Since the referee read the manuscript carefully, such a confusion present the complication of following the text. Therefore, in the revision, we numbered the definition of W(r,t), as well as p(r,t), (beginning of the section IV) and we refer to them before Eq.(13).
+
+Referee: 16) P.5, left: "The second bracket, and the forth term...": rather the third term?
+
+Authors: Thank the referee for mentioning this confusing phrase. We change the phrase "The second bracket, and the forth term..." to "All the terms including laplacian ..." in the revision.
+
+Referee: 17) P.5, bottom left: "As a consequence of this type of non-linearity the exponent...": which exponent? it must be explained what is meant/described here.
+
+Authors: We apologize for this ambiguity. This point is also mentioned by the second referee. Here we meant that the polarization close to the transition point has a scaling behavior with the noise. The "exponent" in the text is referring to the "scaling exponent" . For clarity, The text about the "exponent" is moved to subsection V.C., where detailed discussion with proper explanation about the "exponent" is presented. Instead, we wrote in the place that "We will discuss later, that the scaling of polarization with noise in the vicinity of the transition, depends on the order of non-linear terms."
+
+Referee: 18) P.5 top right: a reference for the binary collision system should be given.
+
+Authors: Agree. 
+
+Referee: 19) P.5, section B., 2nd line: fk~epsilon^|k|?
+
+Authors: Again thanks for the clever cognition of this error. We use fk~epsilon^|k| instead of fk~epsilon^k in the revision.
+
+Referee: 20) For the references: I think including the years in the text is not PRE style.
+
+Authors: That's right.
+
+Referee: 21) P.5, section C., 2nd and 9th line: what is the "non-polar answer" repeatedly referred to here?
+
+Authors: It is a typo, instead we should use "polar answer". Also in the revision, some information about both polar and non-polar answers are given below section C, for clarity of the text. 
+
+Referee: 22) In the text: one should write about the "exact mean-field solution" rather than the "exact solution".
+
+Authors: We replaced "exact solution" by "exact mean-field solution" in the revision. "exact homogeneous solution" is also replaced by "exact mean-field solution".
+
+Referee: 23) P.5, right: it should be briefly explained what is the "small deviation solution".
+
+Authors: An explanation about the "small deviation solution" is given on P.6 bottom left of the revision.
+
+Referee: 24) The meaning of "local polarization" on p.6, bottom right, and the associated explanation is still a little vague and could be improved.
+
+Authors: We re-word the paragraph to make the meaning of the "local polarization" clear.
+
+Referee: 25) Fig.4(b): the deviation stressed by the arrow is hardly or basically not visible. The presentation must be modified or amended here, e.g. by a zoom.
+
+Authors: Actually the difference is small. We change the range of horizontal and vertical axis to make the difference more visible. We thank the referee for the suggestion.
+
+Referee: 26) P.7, top right: "the GA equation shows an instability...": what is meant here?
+
+Authors: We are sorry for not describing the instability. Here we meant the numerical instability. This paragraph is re-worded to fulfill the points 27 and 28 as well.
+
+Referee: 27) P.7, top right: "It seems that this change requires sharp changes in density...": this is hardly understandable. Do the authors mean large/steep gradients?
+
+Authors: Yes, we mean the large gradients. Thank you for suggesting the proper word for the situation. We re-word the paragraph to make it vivid.
+
+Referee: 28) "To avoid this problem, we temporally increase the K...": what does this mean? At intermediate noise levels? I.e. in a certain range of temperatures? The authors must explain, why this is not a problem and does not influence the results. Or they must admit that the actual solutions in this range may be different from the presented ones.
+
+Authors: The increase of K is done when the Dr is kept fixed at Dr=0.2 during cooling process. We do not sample the system when K is high, we first reduce K to its previous value, and continue integrating the system until it is relaxed, then we start sampling. Definitely this process, change the configuration of the system from a wide polar band to a homogeneous polar state for noises Dr=0.2,0.1, and 0 during cooling [Fig.5(a)]. But the polarization in this interval remains on the trend and we can trust the answer. This is explained in the new revision in details.
+
+Referee: 29) Fig.5: Dr should be put as labels on the abscissae.
+
+Authors: We put Dr as labels in addition to "Noise intensity" in the Figs. 1 and 5 of the revision.
+
+Referee: 30) P.8, bottom left: "Single bands in the wave train will be absorbed by others", you mean, when increasing Dr? All in all, I think this problem occurs a few times. It should be stressed that the results always summarize the final states observed after the system had sufficient time to relax at a certain value of Dr. And that the processes described as if they would occur dynamically do not represent the dynamics for a certain fixed value of Dr, but rather as a response to varying Dr.
+
+Authors: We meant by increasing Dr, during the relaxation period, some of the bands are fused to another one and there are fewer bands in the relaxed state. We hope that by re-phrasing the text, the paragraph gets clear enough.
+
+Referee: 31) Associated with Fig.6 and the corresponding contents in the text: It should be discussed in more detail which results are also observed in the particle simulations and where possible differences may arise from.
+
+Authors: Thanks to the referee. It is applied.
+
+Referee: 32) P.10, top left: "The value is in agreement with the results...": it should be made clearer here that this is not connected to a statement on the overall quality of the GA. Otherwise it appears a little contradictory to the end of the preceeding paragraph.
+
+Authors: The statement of the referee is true.  We have tried our best to clarify the point.
+
+Referee: 33) Appendices B-D: For consistency, the continuity equation should
+always be listed first as it has also been in the main part.
+
+Autors: Thanks the referee for this point, now we make the order of equations uniform in the manuscript.
+
+Referee: 34) P.10, bottom left, reverse order 18,19.
+
+Authors: The order is corrected.
+
+Referee: 35) Eqs.C1,C3,C4: R^2 is missing.
+
+Authors: R^2 is missing in Eqs. (C3) and (C4) that is fixed in the revision. The Eqs. (C1) and (C2) were correct. 
+
+Referee: 36) The last term in Eq.C4 can be simplified.
+
+Authors: Yes, it is fixed.
+
+Referee: 37) Last line of section C: Where does this statement Dr>Dc=gamma*rho0/2 come from? I cannot see this directly.
+
+Authors: The instability occurs when $Re[s] > 0$. For simplicity, we define $b(q) = [D_r - (\gamma*\rho_0 / 2) + (\gamma*\rho_0*R^2*q^2 / 16)]$, and $c(q) = [-1 \pm \sqrt{1 - (2 * v_0^2 * q^2) / b^2}]$. Then we can show that $s_{+-} = -K*q^2 + 0.5*b(q)*c_{+-}(q)$. The only possible imaginary part in s, comes from $c_{+-}(q)$. Thus $Re[s_{+-}] = -K*q^2 + 0.5*b(q)*Re[c_{+-}(q)]$. For instability we have to find the condition that for a value of $q$, we have $Re[s_{+-}] > 0$,
+
+$K*q^2 < 0.5*b(q)*Re[c_{+-}(q)]$
+
+It is evident that Re[c_{+-}(q)] <= 0, thus
+
+$K*q^2 / Re[c_{+-}(q)] > 0.5*b(q)$
+
+The left hand side of the above inequality is negative, therefore if the above condition is satisfied, then $b(q)$ is negative. The smallest value for $b(q)$ is at $q=0$, therefore if we have instability, then $b(0) < 0$. This gives the condition $D_r > D_c = 0.5*\gamma*\rho_0$. We have to check if $D_r < D_c$ makes the perturbation unstable as well. At $q=0$, we have $c_{+}(0) = 0, and c_{-}(0) = -2$, then $s_{+} = 0 and s_{-} = -b(0)$. Now if $D_r < D_C$, then $b(0) < 0$ and $s_{-} > 0$. Therefore the perturbation is unstable if and only if $D_r < D_c$. If the referee wants this argument to be included on the manuscript just let us to know. 
+
+Referee: 38) I cannot reproduce Eq.D1. From Eq.B3 I find several different coefficients. E.g. the term Dr*deltaW is missing completely. Therefore, also the remaining part of Appendix D remains unclear to me. This must be clarified.
+
+Authors: We had a typo in Eq.(D2) that is fixed in the revision. Eq.(D3) and (D4) are not affected by the mistake. The complication of reproducing Eq.(D1) and (D2) is due to the fact that we used the identity $p_0 = (1-D_r/D_c)^{0.25}$ in some terms. E.g. the third line of Eq.(B4) becomes zero. Also, we replaced W0 with p0*rho0. We add some information at the beginning of appendix D to make reading easier.
+
+Referee: 39) Some more connection to recent literature should be made. - Caussin et al., Phys. Rev. Lett. 112, 148102 (2014), the authors' Ref.6, contains several results including one single big band, a state of several coexisting bands, etc. How do the present results compare to that work? ...
+
+Authors: Our work is in agreement with their findings and we cite the work on P.9 left of the revision (Ref.[5]) and discuss about the analogy of their findings and our solutions.
+
+Referee: 39) ... Also in view of the difference between heating and cooling in the present work? ...
+
+Caussin et al. did not discuss how the system selects between these solutions. The effect of cooling/heating on solutions is discussed in the answer of comment (8).
+
+Referee: 39) ... Recently, propagation parallel to, i.e. along, higher-density bands instead of perpendicular has been observed in modified Vicsek models. See Menzel, J. Phys.: Condens. Matter 25, 505103 (2013); Romanczuk et al. New J. Phys. New J. Phys. 18 063015 (2016); Menzel New J. Phys. 18, 071001 (2016). Would the wrapped Gaussian also be a reasonable approach to study such other systems? Which modifications would be necessary?
+
+Authors: Thank the referee for giving this novel idea. We present it in the revision as possible future studies. We also addressed the challenges that one has to overcome in this problem.
+
+__________________________________________________________________________________________________________
+
+------------------------------------------------------------------
+Response to the second referee's comments:
+------------------------------------------------------------------
+
+We thank the second referee for carefully reading our manuscript, and for his kind comments that were helpful in improving the quality of the revision.
+
+Referee: 1) I think that the terms in the formulas should be arranged better in order to make the identification easier, I am referring in particular to Eq (19) and (20) that have similar terms in different positions.
+
+Authors: That is a big improvement in the presentation of equations. We sort the terms of the mentioned equations with the same manner in the revision.
+
+2) I would like the authors to comment in the manuscript upon the physical meaning of the use of a Gaussian approximation in this context, and discuss qualitatively what does it mean to make this assumption;
+
+Authors: This is done in the introduction of the revision.
+
+3) I find confusing, and potentially very misleading, all references to the scaling behavior near the transition point. In particular when the author discuss the scaling exponent it is not obvious to which physical quantity it refers. In light of this I would recommend to add a short paragraph in the introductory part in which the authors explain in more detail this part.
+
+Authors: This point is also mentioned by the first referee. We fix the ambiguity of the text about the exponent, as mentioned in our reply to comment 17th of the first referee.
+
+
+------------------------------------------------------------------
+Response to the third referee's comments:
+------------------------------------------------------------------
+
+Conserning the general remarks of the third referee, we would like to remind that we are not considering self-propelled particles in solution. Sorry for being miss leading about this point. To make the aim of the manuscript more clear, we added in the introduction of the revision that we are using a simple variant of Vicsek model, neglecting hydrodynamic interactions. We were aware of the works that consider hydrodynamics, e.g. J. P. Hernandez-Ortiz et al. Phys. Rev. Lett. 95, 204501 (2005), P. T. Underhill et al. Phys. Rev. Lett. 100, 248101 (2008), D. Saintillan and M. J. Shelley, Phys. Rev. Lett. 100, 178103 (2008), D. Saintillan and M. J. Shelley, Phys. Fluids 20, 123304 (2008), D. Saintillan and M. J. Shelley, J. R. Soc. Interface (2011), A. Zöttl and H. Stark Phys. Rev. Lett., 112 , 118101 (2014), O. Pohl and H. Stark Phys. Rev. Lett., 112 , 238303 (2014), and Y. Yang, et al. Phys. Rev. E 78, 061903 (2008). But these works are not directly related to ours, but we have cited few of them in the revision to stress the difference of our work with the studies about swimmers.
+

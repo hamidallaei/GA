@@ -1,0 +1,296 @@
+The list of changes in document revision:
+
+----------------------------------
+Applied changes to the figures:
+----------------------------------
+
+Fig. 1, and 5: $D_r$ for noise intensity and $p$ for polarization are added in labels.
+
+Fig.4(b): The inset of this figure is changed to the interval [1,3] for k.
+
+Fig.2: Caption is changed.
+
+Fig.6: Some corrections to the caption is applied.
+
+Fig.6(c): The snapshot of a longer simulation is replaced
+
+----------------------------------
+Applied changes to the text:
+----------------------------------
+
+P.1, first sentence of the abstract is changed to ``Obtaining a reduced description with particle and momentum flux densities outgoing from the microscopic equations of motion of the particles requires approximations.''
+
+P.1, the abstract: ``intensities and partially for low noise also quantitative agreement with simulations, making it'' is changed to ``In particular, for low noise intensities the agreement with simulations is bettter as other approximations, making the GA''
+
+P.1, left: ``Vicsek'' is changed to ``the Vicsek''
+
+P.1, left: A footnote is added after hydrodynamic to describe what we mean by hydrodynamics in the manuscript.
+
+P.1, left: ``Tonner'' is changed to ``Toner''
+
+P.1, bottom left: ``using Boltzmann approach'' is changed to ``using a Boltzmann approach''
+
+P.1, bottom left: ``using Enskog-type'' is changed to ``using an Enskog-type''
+
+P.1, bottom left: ``writing Boltzmann ...'' is changed to ``formulating the Boltzmann equation for the probability distribution density ...''
+
+P.1, bottom left: ``Smoluchowski'' is changed to ``Fokker-Planck''
+
+P.1, top right: ``moments of the distribution'' is changed to ``moments of the distribution''
+
+P.1, top right: ``Truncating the angular Fourier'' is changed to ``Truncating the series of angular Fourier''
+
+P.1, top right: ``in Smoluchowski equations'' is removed
+
+P.1, right: ``to obtain hydro-dynamical equations'' is changed to ``to obtain the hydrodynamic equations''
+
+P.1, right: ``in zero noise'' is changed for ``vanishing noise''
+
+P.1, right: ``of distribution generating function moments'' is removed
+
+P.1, right: ``Similar to expansion'' is changed to ``Similar to an expansion''
+
+P.1, right: ``the closure is done by neglecting'' is changed to ``the closure was done by neglecting''
+
+P.1, right: ``that is valid for sharp'' is changed to ``what appeared to be valid for sharp''
+
+P.1, right: ``is not able to predict the transition point of the system accurately.'' is changed to ``is not able to accurately predict the transition point of the system.''
+
+P.1, right: ``This is because the distribution in the vicinity of the transition point becomes uniform.'' is removed
+
+P.1, bottom right: ``Here we are going to find hydrodynamics with a ...'' is changed to ``Here we are going to find hydrodynamic equations of a simple variant of the Vicsek model, with a ...''
+
+P.1, bottom right: We add some information about the meaning of the GA.
+
+P.1, bottom right: ``which is still easy to apply and it predicts the system for all range of noises.'' is changed to ``which is easy to apply and which will predict the system's properties for a wide range of noise intensities.''
+
+P.1, bottom right: We add some information about the meaning of the GA.
+
+P.2, top left: ``In difference to other approximations we ...'' is changed to ``In difference to other approximations, we ..''
+
+P.2, top left:  ``all Fourier modes are given by the local mean'' is changed to ``all Fourier modes are considered. The latter are given by the local mean''
+
+P.2, left: ``we use continuous-time Vicsek model'' is changed to ``we use a time continuous Vicsek model''
+
+Lines 3-5 of II: The phrase``Such a model is in a coarse grained level and without hydrodynamic interactions [62, 63].'' is added.
+
+P.2, bottom left: ``effect of the environment'' is changed to ``effects of the environment or/and  of the propulsive mechanism''
+
+P.2, bottom left: ``rotational movement of particles respectively'' is changed to ``rotational movement of particles, respectively''
+
+P.2, bottom left: $D_r$ is replaced with $D$
+
+P.2, bottom left: ``are Gaussian uncorrelated'' is changed to ``are considered to be Gaussian uncorrelated''
+
+P.2, bottom left: ``responsible for alignment'' is changed to ``responsible for an alignment''
+
+P.2, Before Sec.III: ``$\gamma$'' is changed to ``$\gamma>0$''
+
+P.2, Before Sec.III: ``the strength of alignment'' is changed to ``he strength of this alignment''
+
+P.2, Before Sec.III: The phrase ``Without loss of generality We choose ...'' is changed to ``We choose ...''
+
+P.2, Before Sec.III: ``to area of interaction'' is changed to ``the area of the interaction''
+
+P.2, Below Sec.III: ``we integrated microscopic Eq.'' is changed to ``we integrated the microscopic Eq.''
+
+P.2, Below Sec.III: ``with time steps'' is changed to ``with a time step''
+
+P.2, Below Sec.III: More information on the initial conditions and reasons for the choice are given. Also, some more details about the integration are given.
+
+P.2, Below Sec.III: ``and box dimensions'' is changed to ``and the box dimensions''
+
+P.3, top left: ``One could apply similar variable to a subset of particles that are located at a small region to obtain the local polarization'' is changed to ``One can define a similar variable with respect to a subset of particles which are located in a small region around a given position in order to obtain a local polarization [see Eq. (4)]''
+
+P.3, 7 lines below Eq.(3): Added some text to show that the system is relaxed.
+
+P.3, left:``Figure 2 presents ... that are observed in the system'' is changed to``Figure 2 presents ... that are observed in steady state of the system''
+
+P.3, 6 lines before IV:``0.2 => D_r <= 0.5'' is changed to``0.2 <= D_r <= 0.5''
+
+P.3, before IV.: ``By increasing the noise further,'' is changed to ``By increasing the noise further on,''
+
+P.3, second line after IV.: ``with angle'' is changed to ``with the angle''
+
+P.3, Eq.(4) and (5): The definition of polarization, p, and momentum flux, W is separated into numbered Eqs. (4) and (5).
+
+P.3, bottom left: ``derive a hydrodynamic'' is changed to ``derive the hydrodynamic''
+
+P.3, bottom left: ``$\rho$, $\vec{W}$ and $\vec{p}$'' is changed to ``$\rho(\vec{r},t)$, $\vec{W}(\vec{r},t)$ and $\vec{p}(\vec{r},t)$''
+
+P.3, top right:``Dean (1996)'' is converted to``reference''
+
+P.3 Eq.(6): The equation is written in one single line.
+
+P.3, bellow Eq.(6): ``in the r.h.s'' is changed to ``on the r.h.s''
+
+P.4 Eq.(7): F is written with only 2 arguments for consistency.
+
+P.4, top left: ``we neglect two point density correlations.'' is changed to ``we neglect correlations of the particles.''
+
+P.4, top left: ``we can factorize $f^{(2)} in product$'' is changed to ``we factorize  $f^{(2)} into the product''
+
+P.4, top left: ``point $\vec{r}$, up to second order of spatial derivatives.'' is changed to ``point $\vec{r}$ up to the second order of the spatial derivatives.''
+
+P.4, left: ``of the Eq. (6) with mean-field approximation.'' is changed to ``of Eq. (6) with mean-field approximation.''
+
+P.4, left, 4 lines before Eq.(9):``exact homogeneous solution'' is changed to``exact mean-field homogeneous solution''
+
+P.4, left: ``Toward this aim'' is changed to ``In this aim''
+
+P.4, bottom left: ``the global polarization vector $\vec{p}$, $\theta_0$ shows an arbitrary collective direction,'' is changed to ``the global polarization vector defined in Eq. (3), the arbitrary angle $\theta_0$ defines the orientation of the collective motion,''
+
+P.4, bottom left: ``Therefore $D_c=\gamma \rho_0 / 2$'' is changed to ``Therefore, $D_c=\gamma \rho_0 / 2$''
+
+P.4 bellow V.: ``To build hydrodynamic equation from'' is changed to ``To build hydrodynamic equations from''
+
+P.4, before Eq.(13):``as well as the momentum flux [see Eq. (5)]'' is added to remind the definition of W.
+
+P.4, right, Eq.(13) and (14): For consistency, p and Q on the left-hand sides are replaced by w = rho*p = ...., and rho*Q  = ...
+
+P.4, after Eq.(14): ``Fourier'' is changed to ``the Fourier''
+
+P.4, after Eq.(14): ``to an infinite'' is changed to ``into an infinite''
+
+P.4, after Eq.(15): ``the l.h.s show'' is changed to ``describe''
+
+P.4, after Eq.(15): ``In the r.h.s'' is changed to ``At the r.h.s''
+
+P.4, bottom right: ``the forth terms'' is changed to ``the fourth terms''
+
+P.4, bottom right: ``can be thought of polar order parameters,'' is changed to ``define the local polar order parameter''
+
+P.5, below A.: ``distribution'' is changed to ``probability distribution''
+
+P.5, below A.: ``is a wrapped Gaussian'' is changed to ``is with respect to the orientations a wrapped
+Gaussian''
+
+P.5, lines 2-4 after Eq.(16): A statement concerning continuity of the wrapped Gaussian is given.
+
+P.5, the paragraph below Eq.(18): replaced p with w, and tilde{P}^g_1 with \tilde{f}^g_1 for clarity
+
+P.5, three lines before Eq.(19):``x and y axis'', changed to``real and imaginary axes''
+
+P.5, below Eq.(19): ``it gives us continuity equation,'' is changed to ````it gives us the continuity equation,''''
+
+P.5, below Eq.(20): ``and hydrodynamic equation of momentum flux,'' is changed to ``and the hydrodynamic equation of the momentum flux,''
+
+P.5, Eq. (21): a missing plus sign before K \nabla^2 \vec{W} is added
+
+P.5, top right: ``advection of momentum flux.'' is changed to ``advection of the momentum flux.''
+
+P.5, top right: ``The interpretation of  other terms'' is changed to ``The interpretation of the other terms''
+
+P.5 right: ``it is necessary in symmetry breaking and flocking behavior.'' is changed to ``it is the necessary non-linearity for the  break of symmetry and originates flocking behavior.''
+
+P.5, right:``The second bracket, and the fourth term...'' is changed to``all the terms including laplacian ...''
+
+P.5, right:``the diffusion of momentum flux'' is changed to ``the diffusion of hl{fluctuations of the momentum flux''
+
+P.5, right: ``One can derive a simpler'' is changed to ``One can derive a simpler''
+
+P.5, right: ``Toner-Tu'' is changed to ``Toner and Tu''
+
+P.5, right: The text about exponent is moved to subsection C. Instead, we write the following in the revision ``We will discuss later, that the scaling of polarization with noise in the vicinity of the transition, depends on the order of these non-linear terms.''
+
+P.5, right: ``by symmetry argument.'' is changed to ``by symmetry arguments.''
+
+P.5, before B.: ``$R \to 0$. In this limit, some terms proportional to $\nabla^2 \vec{W}$, that come from non-locality of interaction vanish.'' is changed to ``In this limit, several terms proportional to $\nabla^2 \vec{W}$ vanish which had their origin in the non-local character of the interaction.''
+
+P.5, bottom right, 4 lines before subsec. B.: A reference to a system with binary collisions is given now.
+
+P.5, below B., 2nd line: $f_k~\epsilon^|k|$ is replaced with $f_k~\epsilon^k$
+
+P.5, below B.: ``we can derive another equation'' is changed to ``one can derive another equation''
+
+P.5, below B.: ``from $k \geq 5$'' is changed to ``starting from $k \geq 5$''
+
+P.5, below B.: ``Applying the closure'' is changed to ``Applying this closure''
+
+P.5, Eq. (22): The equation is re-written with the same order as Eq.(21).
+
+P.6, after Eq.(22): The paragraph is changed in accordance to the new order of the terms in Eq.(22)
+
+P.6, after Eq.(22):``Bertin et al. (2006,2009) equations'' converted to``the equations derived by
+Bertin et al.''
+
+P.6, section C., 1st paragraph:``non-polar answer'' is changed to``polar answer''. On the (2nd and 3rd lines), a description of polar and non-polar states is given in parentheses.
+
+P.6, section C., 1st paragraph: Difference in scaling behavior of polarization close to the transition is discussed.
+
+P.6, left: ``Figure 3 shows comparison'' is changed to ``Figure 3 shows the comparison''
+
+P.6, bottom left:``The GA'' is changed to``The GA method''.``exact mean-field solution'' is used instead of``exact solution''. An explanation for the``small deviation solution'' is given.
+
+P.6, bottom left: ``either solve the master'' is changed to ``either solve the Fokker-Planck'
+
+P.6, top right:``exact mean-field solution'' is used instead of``exact solution''
+
+P.6, right: ``different continuum equations obtained from ...'' is changed to ``different continuum equations which have been obtained from ...''
+
+P.6, 3 lines after VI.A.:``Figure 4 compares'' is changed to``Figure 4 shows''
+
+P.6, right: More explanation about P(\theta|p_s) and the meaning of local polarization in here is given.
+
+P.6, right: ``with variance given by p s ,'' is changed to ``with the variance given by p s ,''
+
+P.7, left: ``the $p_s$'' is changed to ``$p_s$''
+
+P.7 : ``with theory we plotted'' is changed to ``with the theory we plotted''
+
+P.7 : ``the GA gives a better ...'' is changed to ``the GA gives a better agreement in case of low noise ...''
+
+P.7, right: ``If one follow Dean (1996) ...'' is removed.
+
+P.7 right: ``to the GA, and truncation continuum equations'' is changed to ``for the hydrodynamic equations of both approaches, the GA and the truncation approach''
+
+P.7 right: ``the stochastic noise of microscopic'' is changed to ``the stochastic sources of the microscopic''
+
+P.7 right: ``If one exactly follow ...'' is removed.
+
+P.7 right: ``to integrate the continuum equations.'' is changed to ``to integrate the continuum equations with periodic boundary condition.''
+
+P.7 right: ``time steps are equal to $dt = 1 / 32 R/v_0$'' is changed to ``time steps are equal to $dt = R / 32 v_0$''
+
+P.7 right: We add some text about the initial condition of the cooling process and the integration of the continuum equations.
+
+P.8 top left: ``for duration between 16'' is changed to ``for a duration between 16''
+
+P.8 top left: ``on relaxation'' is changed to ``on the relaxation''
+
+
+P.8, before``2. Integration Results'': The paragraph is re-written to better describe the instability and precisely discuss how we overcame the problem.
+
+P.8, right and P.9 top left: We add some explanations about the configurations presented in figure 6.  Moreover, we add some text to compare the result of the continuum equations with the microscopic simulation.
+
+P.9, top left: $0.27 >= D_r < 3.1$ is changed to $0.27 <= D_r < 1.3$.
+
+P.9, left, before``Similar structures are obtained by directly ...'': We add some text about the analogy of our solutions with the work of Caussin et. al, Phys. Rev. Lett. 112 148102 (2014). We also mention that our solutions depend on the cooling/heating processes.
+
+P.9, bottom left:``They also found'' is changed to``Th{\u''}roff et al. also found''
+
+P.9, before VII: In a new paragraph, we discuss active smecti phase, and the possibility of applying the GA to it.
+
+P.10 left: The references with authors (year) format is modified to the PRE style.
+
+P.10 bottom right: We emphasize that the linear stability and the GA results differ quantitatively with microscopic simulations.
+
+Before acknowledgment: We expand the discussion about the applicability of the GA method to other active particle systems, specially active smectic phase.
+
+Before acknowledgment: ``the simplicity and performance'' is changed to ``the simplicity and the performance''
+
+Appendices B-D: For consistency, the continuity equation is listed first as it has been in the main part.
+
+P.11, four lines after B: The reversed order of the referenced equation numbers is corrected.
+
+Eq. (C3) and (C4): A missing $R^2$ is added.
+
+Eq. (C4): The last term is simplified.
+
+P.12, below Appendix D: We add some extra information for obtaining Eq. (D1) and (D2).
+
+P.12, Eq.(D2), Second line left: (3p0^4 - 5) is changed to (1-3p0^4)
+
+P.12, before Eq. (D3): ``following'' is changed to `` following equation''
+
+P.12, the last sentence: ``This could be thought of the emergence of a band structure.'' is changed to ``This shows the emergence of an inhomogeneous answer which is the polar band structure.''

@@ -1,0 +1,9 @@
+Two movies are the GA numerical integration for heating, and cooling the system.
+
+Supplementary movie 1 (SI1-cooling-GA): Cooling the system from D_r=0.8
+
+Supplementary movie 2 (SI2-heating-GA): Heating the system, starting from homogeneous polar state along x-axis at D_r=0.01.
+
+To reduce the file size of the movies, the integration intervals are shorter than the intervals used to obtain Fig.~5. In each movie color shows the amount of local density according to the color bar. The arrows represent the polarization vector. At the top of the movies, noise intensity, average polarization, and the elapsed time are written. We remind that length and time units are such that R=1, and v_0=1.
+
+
