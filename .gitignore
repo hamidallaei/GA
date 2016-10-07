@@ -1,6 +1,7 @@
 *.aux
 *.blg
 *.bbl
+*.blg
 *.lof
 *.log
 *.lot
@@ -8,3 +9,6 @@
 *.toc
 *~
 *.pdf
+*.dvi
+GANotes.bib
+*.zip
